@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+python-docx
+google-generativeai
+PyPDF2
+pdfminer.six
+regex
